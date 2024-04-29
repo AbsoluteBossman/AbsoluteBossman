@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbsoluteBossman
 - 👀 I’m interested in Game development, blockchain
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sheikhadnanofficial@gmail.com
 
